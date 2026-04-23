@@ -55,7 +55,7 @@
       <HintPath>packages\BouncyCastle.NetCore.1.8.10\lib\net20\BouncyCastle.Crypto.dll</HintPath>
     </Reference>
     <Reference Include="GSCSharpSDK">
-      <HintPath>..\..\..\Downloads\GigyaSDK\GSCSharpSDK-2.15.5.dll\GSCSharpSDK.dll</HintPath>
+      <HintPath>lib\GSCSharpSDK.dll</HintPath>
     </Reference>
     <Reference Include="log4net, Version=3.3.0.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <HintPath>packages\log4net.3.3.0\lib\net462\log4net.dll</HintPath>
